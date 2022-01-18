@@ -1,0 +1,18 @@
+body > header {
+    background-color: dodgerblue;
+    color: white;
+}
+
+nav > ul > li {
+    display: inline-block;
+}
+
+body > main {
+    margin: auto;
+    width: 80%;
+}
+
+hgroup {
+    display: flex;
+    align-items: flex-end;
+}
